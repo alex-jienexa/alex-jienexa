@@ -1,9 +1,9 @@
 **!important:**
+- Этот профиль гитхаба ЗААРХИВИРОВАН, все работы ведутся в моём [GitVerse](https://gitverse.ru/jiene)
+- This profile is ARCHIVED, all stuff is on my [GitVerse](https://gitverse.ru/jene) (russian GitHub XD)
 
-  Этот профиль гитхаба ЗААРХИВИРОВАН, все работы ведутся в моём [GitVerse](https://gitverse.ru/jiene)
-  
-  This profile is ARCHIVED, all stuff is on my [GitVerse](https://gitverse.ru/jene) (russian GitHub XD)
-  
+
+
 👋 **Привет, мир!** Меня зовут @alex-jienexa!
 Я *начинающий* разработчик, интересуюсь в различных аспектах программирования.
 
